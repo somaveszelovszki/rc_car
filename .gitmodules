@@ -1,0 +1,12 @@
+[submodule "firmware/control-panel"]
+	path = firmware/control-panel
+	url = git@github.com:somaveszelovszki/rc_car-control-panel-firmware.git
+[submodule "circuit/control-panel"]
+	path = circuit/control-panel
+	url = git@github.com:somaveszelovszki/rc_car-control-panel-circuit.git
+[submodule "circuit/altium-libs"]
+	path = circuit/altium-libs
+	url = git@github.com:somaveszelovszki/altium-libs.git
+[submodule "micro-utils"]
+	path = micro-utils
+	url = git@github.com:somaveszelovszki/micro-utils.git
